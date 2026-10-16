@@ -1,0 +1,29 @@
+{
+  "expo": {
+    "name": "Zvastra Studio",
+    "slug": "zvastra-studio",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#800020"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.zvastra.studio"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#800020"
+      },
+      "package": "com.zvastra.studio"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}

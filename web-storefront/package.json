@@ -1,0 +1,8 @@
+{
+  "name": "zvastra-web-storefront",
+  "version": "1.0.0",
+  "description": "Dynamic multi-tenant web storefront engine for Zvastra",
+  "scripts": {
+    "start": "npx serve ."
+  }
+}
